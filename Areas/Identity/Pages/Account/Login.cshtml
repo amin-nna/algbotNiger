@@ -1,0 +1,51 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+}
+
+<div class="bs5">
+    <div class="wrapperform">
+        <div class="cardform">
+            <form form id="loginForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+                <div class="h2 text-light-white">Login</div>
+                <div class="input-field">
+                    <span class="far fa-user p-2 text-light-white"></span>
+                    <input class="text-light-white" asp-for="Input.Email" type="text" placeholder="Email" required class="form-control">
+                </div>
+                <div class="input-field" style="display: flex; justify-content: space-between;">
+                    <div>
+                        <span class="fas fa-lock p-2 text-light-white"></span>
+                        <input class="text-light-white" asp-for="Input.Password" placeholder="Password" required class="form-control" id="pwd">
+                    </div>
+                    <button class="btn" onclick="showPasswordText()"><span class="fas fa-eye-slash text-light-white "></span></button>
+                </div>
+
+                <div>
+                    <div class="lbox align">
+                        <label class="option">
+                            <span class="text-light-white">Remember Me</span>
+                            <input class="text-light-white" asp-for="Input.RememberMe" type="checkbox" checked>
+                            <span class="checkmark text-light-white "></span>
+                        </label>
+                    </div>
+                    <div class="lbox mb-2"><a class="text-light-white" id="forgot-password" asp-page="./ForgotPassword">Forgot password?</a></div>
+                </div>
+                <div class="lbox text-light-white">
+                    <input type="submit" value="Login" class="btn btn-primary">
+                </div>
+                <div class="lbox text-light-white">
+                    <span class="text-light-white">Don't have an account?</span>
+                    <a class="text-light-white" asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Sign Up</a>
+                </div>
+            </form>
+
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

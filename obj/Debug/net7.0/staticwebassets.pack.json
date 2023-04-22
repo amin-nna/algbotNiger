@@ -1,0 +1,993 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.css",
+      "PackagePath": "staticwebassets/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.js",
+      "PackagePath": "staticwebassets/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/amina_anna/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/obj/Debug/net7.0/scopedcss/projectbundle/algbotNiger.bundle.scp.css",
+      "PackagePath": "staticwebassets/algbotNiger.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/Abract02.png",
+      "PackagePath": "staticwebassets/assets/Abract02.png"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/Background-image-2.png",
+      "PackagePath": "staticwebassets/assets/Background-image-2.png"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/Background-image.20png.png",
+      "PackagePath": "staticwebassets/assets/Background-image.20png.png"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/Background-image.png",
+      "PackagePath": "staticwebassets/assets/Background-image.png"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/Background-image21.png",
+      "PackagePath": "staticwebassets/assets/Background-image21.png"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/Background-image5.png",
+      "PackagePath": "staticwebassets/assets/Background-image5.png"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/Blog-post/blog1.png",
+      "PackagePath": "staticwebassets/assets/Blog-post/blog1.png"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/Blog-post/blog2.png",
+      "PackagePath": "staticwebassets/assets/Blog-post/blog2.png"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/Blog-post/blog3.png",
+      "PackagePath": "staticwebassets/assets/Blog-post/blog3.png"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/Blog-post/blog4.png",
+      "PackagePath": "staticwebassets/assets/Blog-post/blog4.png"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/Blog-post/feature-img1.jpg",
+      "PackagePath": "staticwebassets/assets/Blog-post/feature-img1.jpg"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/Blog-post/post-1.jpg",
+      "PackagePath": "staticwebassets/assets/Blog-post/post-1.jpg"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/Blog-post/post-10.jpg",
+      "PackagePath": "staticwebassets/assets/Blog-post/post-10.jpg"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/Blog-post/post-2.jpg",
+      "PackagePath": "staticwebassets/assets/Blog-post/post-2.jpg"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/Blog-post/post-3.jpg",
+      "PackagePath": "staticwebassets/assets/Blog-post/post-3.jpg"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/Blog-post/post-4.png",
+      "PackagePath": "staticwebassets/assets/Blog-post/post-4.png"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/Blog-post/post-5.png",
+      "PackagePath": "staticwebassets/assets/Blog-post/post-5.png"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/Blog-post/post-6.png",
+      "PackagePath": "staticwebassets/assets/Blog-post/post-6.png"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/Blog-post/post-7.jpg",
+      "PackagePath": "staticwebassets/assets/Blog-post/post-7.jpg"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/Blog-post/post-8.jpg",
+      "PackagePath": "staticwebassets/assets/Blog-post/post-8.jpg"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/Blog-post/post-9.jpg",
+      "PackagePath": "staticwebassets/assets/Blog-post/post-9.jpg"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/instagram/thumb-card3.png",
+      "PackagePath": "staticwebassets/assets/instagram/thumb-card3.png"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/instagram/thumb-card4.png",
+      "PackagePath": "staticwebassets/assets/instagram/thumb-card4.png"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/instagram/thumb-card5.png",
+      "PackagePath": "staticwebassets/assets/instagram/thumb-card5.png"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/instagram/thumb-card6.png",
+      "PackagePath": "staticwebassets/assets/instagram/thumb-card6.png"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/instagram/thumb-card7.png",
+      "PackagePath": "staticwebassets/assets/instagram/thumb-card7.png"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/instagram/thumb-card8.png",
+      "PackagePath": "staticwebassets/assets/instagram/thumb-card8.png"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/popular-post/m-blog-1.jpg",
+      "PackagePath": "staticwebassets/assets/popular-post/m-blog-1.jpg"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/popular-post/m-blog-2.jpg",
+      "PackagePath": "staticwebassets/assets/popular-post/m-blog-2.jpg"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/popular-post/m-blog-3.jpg",
+      "PackagePath": "staticwebassets/assets/popular-post/m-blog-3.jpg"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/popular-post/m-blog-4.jpg",
+      "PackagePath": "staticwebassets/assets/popular-post/m-blog-4.jpg"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/popular-post/m-blog-5.jpg",
+      "PackagePath": "staticwebassets/assets/popular-post/m-blog-5.jpg"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/css/Style.css",
+      "PackagePath": "staticwebassets/css/Style.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/css/all.css",
+      "PackagePath": "staticwebassets/css/all.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/css/aos.css",
+      "PackagePath": "staticwebassets/css/aos.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/css/fonts.css",
+      "PackagePath": "staticwebassets/css/fonts.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/css/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/css/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/css/owl.theme.default.min.css",
+      "PackagePath": "staticwebassets/css/owl.theme.default.min.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/.DS_Store",
+      "PackagePath": "staticwebassets/dist/.DS_Store"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/cjs/index-91b9f5da.js",
+      "PackagePath": "staticwebassets/dist/cjs/index-91b9f5da.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/cjs/index.cjs.js",
+      "PackagePath": "staticwebassets/dist/cjs/index.cjs.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/cjs/loader.cjs.js",
+      "PackagePath": "staticwebassets/dist/cjs/loader.cjs.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/cjs/wc-datepicker.cjs.entry.js",
+      "PackagePath": "staticwebassets/dist/cjs/wc-datepicker.cjs.entry.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/cjs/wc-datepicker.cjs.js",
+      "PackagePath": "staticwebassets/dist/cjs/wc-datepicker.cjs.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/collection/collection-manifest.json",
+      "PackagePath": "staticwebassets/dist/collection/collection-manifest.json"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/collection/components/wc-datepicker/wc-datepicker.css",
+      "PackagePath": "staticwebassets/dist/collection/components/wc-datepicker/wc-datepicker.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/collection/components/wc-datepicker/wc-datepicker.js",
+      "PackagePath": "staticwebassets/dist/collection/components/wc-datepicker/wc-datepicker.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/collection/index.js",
+      "PackagePath": "staticwebassets/dist/collection/index.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/collection/utils/utils.js",
+      "PackagePath": "staticwebassets/dist/collection/utils/utils.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/components/index.d.ts",
+      "PackagePath": "staticwebassets/dist/components/index.d.ts"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/components/index.js",
+      "PackagePath": "staticwebassets/dist/components/index.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/components/wc-datepicker.d.ts",
+      "PackagePath": "staticwebassets/dist/components/wc-datepicker.d.ts"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/components/wc-datepicker.js",
+      "PackagePath": "staticwebassets/dist/components/wc-datepicker.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/esm/index-2c898150.js",
+      "PackagePath": "staticwebassets/dist/esm/index-2c898150.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/esm/index.js",
+      "PackagePath": "staticwebassets/dist/esm/index.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/esm/loader.js",
+      "PackagePath": "staticwebassets/dist/esm/loader.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/esm/polyfills/core-js.js",
+      "PackagePath": "staticwebassets/dist/esm/polyfills/core-js.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/esm/polyfills/css-shim.js",
+      "PackagePath": "staticwebassets/dist/esm/polyfills/css-shim.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/esm/polyfills/dom.js",
+      "PackagePath": "staticwebassets/dist/esm/polyfills/dom.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/esm/polyfills/es5-html-element.js",
+      "PackagePath": "staticwebassets/dist/esm/polyfills/es5-html-element.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/esm/polyfills/index.js",
+      "PackagePath": "staticwebassets/dist/esm/polyfills/index.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/esm/polyfills/system.js",
+      "PackagePath": "staticwebassets/dist/esm/polyfills/system.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/esm/wc-datepicker.entry.js",
+      "PackagePath": "staticwebassets/dist/esm/wc-datepicker.entry.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/esm/wc-datepicker.js",
+      "PackagePath": "staticwebassets/dist/esm/wc-datepicker.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/index.cjs.js",
+      "PackagePath": "staticwebassets/dist/index.cjs.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/index.js",
+      "PackagePath": "staticwebassets/dist/index.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/loader/cdn.js",
+      "PackagePath": "staticwebassets/dist/loader/cdn.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/loader/index.cjs.js",
+      "PackagePath": "staticwebassets/dist/loader/index.cjs.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/loader/index.d.ts",
+      "PackagePath": "staticwebassets/dist/loader/index.d.ts"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/loader/index.es2017.js",
+      "PackagePath": "staticwebassets/dist/loader/index.es2017.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/loader/index.js",
+      "PackagePath": "staticwebassets/dist/loader/index.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/loader/package.json",
+      "PackagePath": "staticwebassets/dist/loader/package.json"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/themes/dark.css",
+      "PackagePath": "staticwebassets/dist/themes/dark.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/themes/light.css",
+      "PackagePath": "staticwebassets/dist/themes/light.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/types/components.d.ts",
+      "PackagePath": "staticwebassets/dist/types/components.d.ts"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/types/components/wc-datepicker/wc-datepicker.d.ts",
+      "PackagePath": "staticwebassets/dist/types/components/wc-datepicker/wc-datepicker.d.ts"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/types/index.d.ts",
+      "PackagePath": "staticwebassets/dist/types/index.d.ts"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/types/stencil-public-runtime.d.ts",
+      "PackagePath": "staticwebassets/dist/types/stencil-public-runtime.d.ts"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/types/utils/utils.d.ts",
+      "PackagePath": "staticwebassets/dist/types/utils/utils.d.ts"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/wc-datepicker/index.esm.js",
+      "PackagePath": "staticwebassets/dist/wc-datepicker/index.esm.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/wc-datepicker/p-b662e034.js",
+      "PackagePath": "staticwebassets/dist/wc-datepicker/p-b662e034.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/wc-datepicker/p-fe08b63b.entry.js",
+      "PackagePath": "staticwebassets/dist/wc-datepicker/p-fe08b63b.entry.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/dist/wc-datepicker/wc-datepicker.esm.js",
+      "PackagePath": "staticwebassets/dist/wc-datepicker/wc-datepicker.esm.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Abel/Abel-Regular.ttf",
+      "PackagePath": "staticwebassets/fonts/Abel/Abel-Regular.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Abel/OFL.txt",
+      "PackagePath": "staticwebassets/fonts/Abel/OFL.txt"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Anton/Anton-Regular.ttf",
+      "PackagePath": "staticwebassets/fonts/Anton/Anton-Regular.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Anton/OFL.txt",
+      "PackagePath": "staticwebassets/fonts/Anton/OFL.txt"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Josefin_Sans/JosefinSans-Bold.ttf",
+      "PackagePath": "staticwebassets/fonts/Josefin_Sans/JosefinSans-Bold.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Josefin_Sans/JosefinSans-BoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Josefin_Sans/JosefinSans-BoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Josefin_Sans/JosefinSans-Light.ttf",
+      "PackagePath": "staticwebassets/fonts/Josefin_Sans/JosefinSans-Light.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Josefin_Sans/JosefinSans-LightItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Josefin_Sans/JosefinSans-LightItalic.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Josefin_Sans/JosefinSans-Regular.ttf",
+      "PackagePath": "staticwebassets/fonts/Josefin_Sans/JosefinSans-Regular.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Josefin_Sans/JosefinSans-RegularItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Josefin_Sans/JosefinSans-RegularItalic.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Josefin_Sans/JosefinSans-SemiBold.ttf",
+      "PackagePath": "staticwebassets/fonts/Josefin_Sans/JosefinSans-SemiBold.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Josefin_Sans/JosefinSans-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Josefin_Sans/JosefinSans-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Josefin_Sans/JosefinSans-Thin.ttf",
+      "PackagePath": "staticwebassets/fonts/Josefin_Sans/JosefinSans-Thin.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Josefin_Sans/JosefinSans-ThinItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Josefin_Sans/JosefinSans-ThinItalic.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Josefin_Sans/OFL.txt",
+      "PackagePath": "staticwebassets/fonts/Josefin_Sans/OFL.txt"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Lexend_Deca/LexendDeca-Regular.ttf",
+      "PackagePath": "staticwebassets/fonts/Lexend_Deca/LexendDeca-Regular.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Lexend_Deca/OFL.txt",
+      "PackagePath": "staticwebassets/fonts/Lexend_Deca/OFL.txt"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Livvic/Livvic-Black.ttf",
+      "PackagePath": "staticwebassets/fonts/Livvic/Livvic-Black.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Livvic/Livvic-BlackItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Livvic/Livvic-BlackItalic.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Livvic/Livvic-Bold.ttf",
+      "PackagePath": "staticwebassets/fonts/Livvic/Livvic-Bold.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Livvic/Livvic-BoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Livvic/Livvic-BoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Livvic/Livvic-ExtraLight.ttf",
+      "PackagePath": "staticwebassets/fonts/Livvic/Livvic-ExtraLight.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Livvic/Livvic-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Livvic/Livvic-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Livvic/Livvic-Light.ttf",
+      "PackagePath": "staticwebassets/fonts/Livvic/Livvic-Light.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Livvic/Livvic-LightItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Livvic/Livvic-LightItalic.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Livvic/Livvic-Medium.ttf",
+      "PackagePath": "staticwebassets/fonts/Livvic/Livvic-Medium.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Livvic/Livvic-MediumItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Livvic/Livvic-MediumItalic.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Livvic/Livvic-Regular.ttf",
+      "PackagePath": "staticwebassets/fonts/Livvic/Livvic-Regular.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Livvic/Livvic-RegularItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Livvic/Livvic-RegularItalic.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Livvic/Livvic-SemiBold.ttf",
+      "PackagePath": "staticwebassets/fonts/Livvic/Livvic-SemiBold.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Livvic/Livvic-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Livvic/Livvic-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Livvic/Livvic-Thin.ttf",
+      "PackagePath": "staticwebassets/fonts/Livvic/Livvic-Thin.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Livvic/Livvic-ThinItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Livvic/Livvic-ThinItalic.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Livvic/OFL.txt",
+      "PackagePath": "staticwebassets/fonts/Livvic/OFL.txt"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/js/Jquery3.4.1.min.js",
+      "PackagePath": "staticwebassets/js/Jquery3.4.1.min.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/js/aos.js",
+      "PackagePath": "staticwebassets/js/aos.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/js/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/js/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/.DS_Store",
+      "PackagePath": "staticwebassets/lib/.DS_Store"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/webfonts/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/webfonts/fa-brands-400.eot"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/webfonts/fa-brands-400.svg",
+      "PackagePath": "staticwebassets/webfonts/fa-brands-400.svg"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/webfonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/webfonts/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/webfonts/fa-brands-400.woff"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/webfonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/webfonts/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/webfonts/fa-regular-400.eot"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/webfonts/fa-regular-400.svg",
+      "PackagePath": "staticwebassets/webfonts/fa-regular-400.svg"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/webfonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/webfonts/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/webfonts/fa-regular-400.woff"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/webfonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/webfonts/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/webfonts/fa-solid-900.eot"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/webfonts/fa-solid-900.svg",
+      "PackagePath": "staticwebassets/webfonts/fa-solid-900.svg"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/webfonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/webfonts/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/webfonts/fa-solid-900.woff"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/webfonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/webfonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.algbotNiger.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.algbotNiger.props",
+      "PackagePath": "build\\algbotNiger.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.algbotNiger.props",
+      "PackagePath": "buildMultiTargeting\\algbotNiger.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.algbotNiger.props",
+      "PackagePath": "buildTransitive\\algbotNiger.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

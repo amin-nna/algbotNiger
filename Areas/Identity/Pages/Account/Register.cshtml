@@ -1,0 +1,44 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="bs5">
+    <div class="wrapperform">
+        <div class="cardform">
+            <form form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="mx-1 mx-md-4">
+                <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+                <div class="h2 text-light-white">Register</div>
+                <div class="input-field">
+                    <span class="far fa-user p-2 text-light-white"></span>
+                    <input class="text-light-white" asp-for="Input.Email" type="text" placeholder="Email" required class="form-control" autocomplete="email">
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                </div>
+                <div class="input-field" style="display: flex; justify-content: space-between;">
+                    <div>
+                        <span class="fas fa-lock p-2 text-light-white"></span>
+                        <input class="text-light-white" asp-for="Input.Password" placeholder="Password" required class="form-control" id="pwd">
+                        <span asp-validation-for="Input.Password" class="text-danger"></span>
+                    </div>
+                    <button class="btn" onclick="showPasswordText()"><span class="fas fa-eye-slash text-light-white "></span></button>
+                </div>
+                <div class="input-field" style="display: flex; justify-content: space-between;">
+                    <div>
+                        <span class="fas fa-lock p-2 text-light-white"></span>
+                        <input class="text-light-white" asp-for="Input.ConfirmPassword" placeholder="Password" required class="form-control" id="pwd">
+                        <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                    </div>
+                    <button class="btn" onclick="showPasswordText()"><span class="fas fa-eye-slash text-light-white "></span></button>
+                </div>
+                <div class="lbox text-light-white">
+                    <input id="registerSubmit" type="submit" value="Register" class="btn btn-primary">
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

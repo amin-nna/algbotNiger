@@ -1,0 +1,50 @@
+/* _content/algbotNiger/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-js29nnwbxh] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-js29nnwbxh] {
+  color: #0077cc;
+}
+
+.btn-primary[b-js29nnwbxh] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-js29nnwbxh], .nav-pills .show > .nav-link[b-js29nnwbxh] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-js29nnwbxh] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-js29nnwbxh] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-js29nnwbxh] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-js29nnwbxh] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-js29nnwbxh] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+
