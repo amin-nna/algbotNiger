@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
 using algbotNiger.Services;
 using Microsoft.AspNetCore.Authorization;
+using System.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 var config = new ConfigurationBuilder()
@@ -15,9 +16,13 @@ var dbServer = config["ConnectionStrings:reWebAppCnn"];
 builder.Services.AddControllersWithViews();
 
 //Inject the connection string when the application is loaded
-builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(dbServer));
+builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseMySQL(dbServer));
+
+
+
 
 builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true).AddRoles<IdentityRole>().AddEntityFrameworkStores<ApplicationDbContext>();
+
 builder.Services.AddScoped<IUserService, UserService>();
 
 builder.Services.Configure<IdentityOptions>(options =>
