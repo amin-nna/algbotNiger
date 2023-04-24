@@ -185,6 +185,10 @@
       "PackagePath": "staticwebassets/.DS_Store"
     },
     {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/.DS_Store",
+      "PackagePath": "staticwebassets/assets/.DS_Store"
+    },
+    {
       "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/Abract02.png",
       "PackagePath": "staticwebassets/assets/Abract02.png"
     },
@@ -523,6 +527,10 @@
     {
       "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/.DS_Store",
+      "PackagePath": "staticwebassets/fonts/.DS_Store"
     },
     {
       "Id": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Abel/Abel-Regular.ttf",

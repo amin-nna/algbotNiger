@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5K6BGATIidJgOH32pTBxFNMCQRAKQdu6aNUBVfBfV1c=",
+  "Hash": "d4iV8CdKQHaG9auz97uvTF11zmO5+bkFg55PBd4H3AQ=",
   "Source": "algbotNiger",
   "BasePath": "_content/algbotNiger",
   "Mode": "Default",
@@ -1836,6 +1836,23 @@
       "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
+      "Identity": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/.DS_Store",
+      "SourceId": "algbotNiger",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/amina_anna/Projects/algbotNiger/wwwroot/",
+      "BasePath": "_content/algbotNiger",
+      "RelativePath": "assets/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/.DS_Store"
+    },
+    {
       "Identity": "/Users/amina_anna/Projects/algbotNiger/wwwroot/assets/Abract02.png",
       "SourceId": "algbotNiger",
       "SourceType": "Discovered",
@@ -3279,6 +3296,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/.DS_Store",
+      "SourceId": "algbotNiger",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/amina_anna/Projects/algbotNiger/wwwroot/",
+      "BasePath": "_content/algbotNiger",
+      "RelativePath": "fonts/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/fonts/.DS_Store"
     },
     {
       "Identity": "/Users/amina_anna/Projects/algbotNiger/wwwroot/fonts/Abel/Abel-Regular.ttf",
