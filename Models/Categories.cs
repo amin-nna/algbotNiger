@@ -11,18 +11,13 @@ using Microsoft.EntityFrameworkCore;
 namespace algbotNiger.Models
 {
 
-    public class Articles
+    public class Categories
     {
         public int Id { get; set; }
-        public string Title { get; set; }
-        public string Preview { get; set; }
-        public string Content { get; set; }
-        public string Category { get; set; }
-        public Boolean Highlight { get; set; }
-        public string MainImageSrc { get; set; }
-        public DateTime PublishDate { get; set; }
+        public string Name { get; set; }
 
     }
+    
 
 
 }

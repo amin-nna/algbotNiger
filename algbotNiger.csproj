@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Remove="Views\Users\Employee.cshtml" />
+    <Content Remove="Views\Article\Index.Admin.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Update="Models\AvailableRoomPerCity.cs">
@@ -71,6 +72,10 @@
     <None Update="Models\AvailableRoomsPerCitycs">
       <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </None>
+    <None Update="Views\Article\Index.Admincshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </None>
   </ItemGroup>

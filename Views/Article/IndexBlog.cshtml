@@ -1,0 +1,39 @@
+@model IEnumerable<algbotNiger.Models.Articles>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<div class="posts">
+    @foreach (var item in Model)
+    {
+        <div class="post-content" data-aos="zoom-in" data-aos-delay="200">
+            <div class="post-image">
+                <div>
+                    <img src="@Html.DisplayFor(modelItem => item.MainImageSrc)" class="img">
+                </div>
+                <div class="post-info flex-row">
+                    <span><i class="fas fa-calendar-alt text-gray"></i>&nbsp;&nbsp;@Html.DisplayFor(modelItem => item.PublishDate)</span>
+                </div>
+            </div>
+            <div class="post-title">
+                <a href="#">
+                    @Html.DisplayFor(model => item.Title)
+                </a>
+                <p>
+                    @Html.DisplayNameFor(model => item.Preview)
+                </p>
+                <button asp-action="Details" asp-route-id="@item.Id" class="btn post-btn">Read More &nbsp; <i class="fas fa-arrow-right"></i></button>
+            </div>
+        </div>
+        <hr>
+    }
+    <div class="pagination flex-row">
+        <a href="#"><i class="fas fa-chevron-left"></i></a>
+        <a href="#" class="pages">1</a>
+        <a href="#" class="pages">2</a>
+        <a href="#" class="pages">3</a>
+        <a href="#"><i class="fas fa-chevron-right"></i></a>
+    </div>
+</div>

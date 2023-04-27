@@ -16,12 +16,9 @@ var dbServer = config["ConnectionStrings:reWebAppCnn"];
 builder.Services.AddControllersWithViews();
 
 //Inject the connection string when the application is loaded
-builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseMySQL(dbServer));
+builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(dbServer));
 
-
-
-
-builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true).AddRoles<IdentityRole>().AddEntityFrameworkStores<ApplicationDbContext>();
+builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<ApplicationDbContext>();
 
 builder.Services.AddScoped<IUserService, UserService>();
 
@@ -29,7 +26,6 @@ builder.Services.Configure<IdentityOptions>(options =>
 {
     // Default SignIn settings.
     options.SignIn.RequireConfirmedEmail = true;
-    options.SignIn.RequireConfirmedPhoneNumber = false;
     options.User.RequireUniqueEmail = true;
 });
 
@@ -60,4 +56,6 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+
 
