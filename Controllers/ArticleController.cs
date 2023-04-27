@@ -27,6 +27,43 @@ namespace algbotNiger.Controllers
                           Problem("Entity set 'ApplicationDbContext.Articles'  is null.");
         }
 
+        public async Task<IActionResult> IndexBlog()
+        {
+            return _context.Articles != null ?
+                        PartialView(await _context.Articles.ToListAsync()) :
+                        Problem("Entity set 'ApplicationDbContext.Articles'  is null.");
+        }
+
+        public async Task<IActionResult> IndexAdminHome()
+        {
+            return _context.Articles != null ?
+                        View(await _context.Articles.ToListAsync()) :
+                        Problem("Entity set 'ApplicationDbContext.Articles'  is null.");
+        }
+
+        public async Task<IActionResult> IndexAdmin()
+        {
+            return _context.Articles != null ?
+                        PartialView(await _context.Articles.ToListAsync()) :
+                        Problem("Entity set 'ApplicationDbContext.Articles'  is null.");
+        }
+
+        public async Task<IActionResult> IndexAdminHighlights()
+        {
+            return _context.Articles != null ?
+                        PartialView(await _context.Articles.ToListAsync()) :
+                        Problem("Entity set 'ApplicationDbContext.Articles'  is null.");
+        }
+
+        public async Task<IActionResult> IndexBlogHighlights()
+        {
+            return _context.Articles != null ?
+                        PartialView(await _context.Articles.ToListAsync()) :
+                        Problem("Entity set 'ApplicationDbContext.Articles'  is null.");
+        }
+
+
+
         // GET: Article/Details/5
         public async Task<IActionResult> Details(int? id)
         {

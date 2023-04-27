@@ -1,0 +1,21 @@
+@model IEnumerable<algbotNiger.Models.Articles>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<script>$(function () {
+        $("#CategoriesAdmin-container").load("/Category/IndexAdminCategory");
+    });</script>
+<div class="posts" id="CategoriesAdmin-container">
+</div>
+
+
+<script>$(function () {
+        $("#articlesAdmin-container").load("/Article/IndexAdmin");
+    });</script>
+<div class="posts" id="articlesAdmin-container">
+</div>
+
+

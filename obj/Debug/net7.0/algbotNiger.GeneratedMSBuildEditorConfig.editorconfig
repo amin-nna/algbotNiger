@@ -200,6 +200,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXJ0aWNsZS9JbmRleEFkbWluSGlnaGxpZ2h0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/amina_anna/Projects/algbotNiger/Views/Article/IndexAdminHome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXJ0aWNsZS9JbmRleEFkbWluSG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/amina_anna/Projects/algbotNiger/Views/Article/IndexBlog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXJ0aWNsZS9JbmRleEJsb2cuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

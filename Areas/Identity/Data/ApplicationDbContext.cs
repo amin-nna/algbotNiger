@@ -31,15 +31,11 @@ public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
 
     }
 
-    public DbSet<algbotNiger.Models.Articles> Articles { get; set; } = default!;
+    //We will define data sets
 
+    public DbSet<Articles> Articles { get; set; }
 
-    //We will define a data sets
-    public DbSet<Articles> Article { get; set; }
-
-
-    //We will define a data sets
-    public DbSet<algbotNiger.Models.Categories> Categories { get; set; } = default!;
+    public DbSet<Categories> Categories { get; set; }
 
 }
 

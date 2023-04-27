@@ -119,10 +119,10 @@ namespace algbotNiger.Areas.Identity.Pages.Account
 
                     // Get the authenticated user's roles
                     var user = await _signInManager.UserManager.FindByEmailAsync(Input.Email);
-                    var roles = await _signInManager.UserManager.GetRolesAsync(user);
+                    //var roles = await _signInManager.UserManager.GetRolesAsync(user);
 
                     // Redirect the user based on their role
-                    switch (roles.FirstOrDefault())
+                    /*switch (roles.FirstOrDefault())
                     {
                         case "Administrator":
                             return RedirectToAction("Index", "HotelChain");
@@ -133,6 +133,7 @@ namespace algbotNiger.Areas.Identity.Pages.Account
                         default:
                             return LocalRedirect(returnUrl);
                     }
+                    */
                 }
                 if (result.RequiresTwoFactor)
                 {

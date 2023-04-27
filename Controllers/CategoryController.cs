@@ -27,6 +27,22 @@ namespace algbotNiger.Controllers
                           Problem("Entity set 'ApplicationDbContext.Categories'  is null.");
         }
 
+        // GET: Category
+        public async Task<IActionResult> IndexAdminCategory()
+        {
+            return _context.Categories != null ?
+                        PartialView(await _context.Categories.ToListAsync()) :
+                        Problem("Entity set 'ApplicationDbContext.Categories'  is null.");
+        }
+
+        // GET: Category
+        public async Task<IActionResult> IndexBlogCategory()
+        {
+            return _context.Categories != null ?
+                        PartialView(await _context.Categories.ToListAsync()) :
+                        Problem("Entity set 'ApplicationDbContext.Categories'  is null.");
+        }
+
         // GET: Category/Details/5
         public async Task<IActionResult> Details(int? id)
         {

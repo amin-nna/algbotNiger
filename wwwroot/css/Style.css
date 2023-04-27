@@ -87,7 +87,7 @@ span{
 }
 
 .container{
-    margin: 0 5vw;
+    margin: 5vw;
 }
 
 .text-gray{
@@ -243,6 +243,11 @@ main .blog-post .blog-content{
 
 main .blog-content .blog-title{
     padding: 2rem 0;
+}
+
+.posts {
+    margin-bottom: 20px;
+    padding: 5px;
 }
 
 main .blog-content .btn-blog{
